@@ -1,0 +1,3 @@
+Rank badges rendered from Sketchfab models by delta203 (https://sketchfab.com/delta203), CC-BY-4.0:
+  "Rocket League Diamond 3", "Rocket League Grandchampion 3", "Rocket League Supersonic Legend".
+assets/ui/logo.png rendered from "Rocket League logotype" by False_idol (https://sketchfab.com/falseidol), CC-BY-4.0.

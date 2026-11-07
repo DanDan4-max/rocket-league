@@ -1,0 +1,51 @@
+ROCKET LEAGUE - FAN REMAKE: HOW TO PLAY
+=======================================
+
+Everything runs in the web browser from this folder. No install and no internet needed
+(online matches still need internet). Keep the whole folder together: index.html needs
+the css, js and assets folders next to it.
+
+
+CHROMEBOOK
+----------
+1. Copy RocketLeague-Play.zip to the Chromebook (Google Drive, a USB stick or email).
+2. Open the Files app and double-click the zip. It opens like a drive.
+3. Copy the RocketLeague-Play folder out of it into "My files" (or Downloads).
+   Don't play it from inside the zip or from Google Drive: copy it to My files first.
+4. Open the copied folder, right-click index.html > Open with > Chrome.
+5. Older or slower Chromebook? Settings > Video > Quality > Very Low.
+   (Auto already picks Very Low on most older Chromebooks.)
+Tip: bookmark the page in Chrome so next time it's one click.
+
+
+MAC
+---
+1. Copy RocketLeague-Play.zip to the Mac and double-click it to unzip.
+2. Move the RocketLeague-Play folder wherever you like (for example Documents).
+3. Right-click index.html > Open With > Google Chrome (best) or Safari.
+4. Safari: if there's no music or sound, click once anywhere on the page.
+   Browsers only start sound after a click or key press.
+Tip: drag index.html onto the Dock for one-click start.
+
+
+CONTROLS
+--------
+W/S drive (and pitch in the air), A/D steer, Space jump (press again with a direction to flip),
+Shift or left mouse boost, X or Ctrl powerslide / air roll, Q/E air roll, C ball cam, Esc menu.
+Controllers work too (plug in or pair before opening the page). Rebind keys in
+Settings > Controls > Configure Controls.
+
+
+UPDATES
+-------
+The game never updates by itself: it always plays the version in this folder. To get the newest
+version, open Settings > Updates and press UPDATE ZIP FROM GITHUB: it downloads the newest version
+and keeps it in the browser. Press DOWNLOAD TO THIS COMPUTER (any time) to save it as a zip in your
+Downloads; unzip it and play from that folder instead of this one (your progress stays, it's saved
+in the browser). CHECK FOR UPDATES only tells you whether there's a newer version.
+
+
+SAVES
+-----
+Progress is saved in the browser on that computer (Chrome and Safari keep separate saves).
+Clearing the browser's history and site data clears the save too.
