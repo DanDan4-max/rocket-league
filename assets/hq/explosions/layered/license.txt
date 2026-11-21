@@ -1,0 +1,11 @@
+Model Information:
+* title:	layered explosion as solid
+* source:	https://sketchfab.com/3d-models/layered-explosion-as-solid-3229bb3a9e7d449d818896c5e657d16c
+* author:	saeed khalili (https://sketchfab.com/saeedkhalili.ir)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "layered explosion as solid" (https://sketchfab.com/3d-models/layered-explosion-as-solid-3229bb3a9e7d449d818896c5e657d16c) by saeed khalili (https://sketchfab.com/saeedkhalili.ir) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

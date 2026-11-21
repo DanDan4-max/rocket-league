@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rocket League - Puck
+* source:	https://sketchfab.com/3d-models/rocket-league-puck-36370415383b45b286f995910152dd0c
+* author:	ROCKET LABS (https://sketchfab.com/vrajesh.gopigari)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rocket League - Puck" (https://sketchfab.com/3d-models/rocket-league-puck-36370415383b45b286f995910152dd0c) by ROCKET LABS (https://sketchfab.com/vrajesh.gopigari) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
